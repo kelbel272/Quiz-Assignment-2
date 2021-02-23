@@ -4,5 +4,5 @@ For Assignment2, our instructions were to add to the code given to us from the p
 
 
 
-[Instructions for Assignment #1](http://google.com)
+[Instructions for Assignment #1](https://github.com/kelbel272/Quiz-Assignment-2/blob/main/Assignment%202.pdf)
 [Instructions for Assignment #2](http://google.com)
